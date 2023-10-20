@@ -1,0 +1,17 @@
+Files--> settings-->Project --> Python Interpreter -->find opencv file, install its 4.5.5.64 version
+
+py -m pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
+
+pip install dlib
+
+pip install cmake
+
+pip install opencv-python
+
+pip install pandas
+
+pip install -U scikit-learn scipy matplotlib
+
+pip install --upgrade pip setuptools
+
+py main.py
