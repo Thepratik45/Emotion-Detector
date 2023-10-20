@@ -2,6 +2,8 @@
 Emotion Detector edited by @Thepratik45
 Added Link of zip file of entire project, just download,unzip & open directly to pycharm.
 
+link:- https://drive.google.com/file/d/1-0Dsy35ZKUnI1craXWUIqpwpPTE_PFLH/view?usp=drivesdk
+
 added a file as text file (2) in which a terminal process added from which I've gone through during project. all the errors occurred are in there.
 
 added a file as text file (3) in which i included process to avoid errors, modules to install.
